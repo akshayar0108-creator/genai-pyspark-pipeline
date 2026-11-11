@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated e-commerce data (keep placeholder files tracked)
+data/raw/*.csv
+data/processed/*
+!data/processed/.gitkeep
